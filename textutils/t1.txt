@@ -1,0 +1,3 @@
+Name = Shivanshu
+Age = 24
+City = Kanpur
